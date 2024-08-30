@@ -24,7 +24,7 @@ class LLMChatbot:
         self.HUGGINGFACEHUB_API_TOKEN = os.getenv("HF_TOKEN")
         self.repo_id = "mistralai/Mistral-7B-Instruct-v0.3"
         self.chain = self.setup_chain()
-        self.name = "Orbit"
+        self.name = "TeacherX"
 
     def setup_chain(self):
         prompt = PromptTemplate(input_variables=["history", "input", "name"], template=prompt_template)

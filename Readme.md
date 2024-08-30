@@ -1,7 +1,7 @@
 # TutorSpeak
 
 ## Overview
-This project is a voice assisting teacher that helps students to learn and understand the concepts of the subjects. It is a voice-based application that can be used by integrating this program with a robot hardware system. The robot will be able to interact with the students and teach them the concepts of the subjects. The robot answers only to questions related to learning.
+TutorSpeak is a voice-enabled teaching assistant designed to help students learn and understand various concepts across a wide range of subjects. This versatile application can be integrated with a robotic hardware system for an interactive learning experience or simply run on a computer as a software solution. TutorSpeak responds to learning-related queries, providing explanations, answering questions, and guiding students through their educational journey.
 
 ## Installation
 1. Clone the repository - `git clone https://github.com/hisham044/Voice-Assisting-Teacher.git`

@@ -1,4 +1,4 @@
-# Voice Assisting Teacher
+# TutorSpeak
 
 ## Overview
 This project is a voice assisting teacher that helps students to learn and understand the concepts of the subjects. It is a voice-based application that can be used by integrating this program with a robot hardware system. The robot will be able to interact with the students and teach them the concepts of the subjects. The robot answers only to questions related to learning.

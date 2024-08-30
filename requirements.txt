@@ -1,0 +1,9 @@
+langchain
+streamlit
+langchain_community
+huggingface_hub
+langchain-huggingface
+termcolor
+python-dotenv
+SpeechRecognition
+pyttsx3
